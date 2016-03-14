@@ -20,4 +20,4 @@
 - [ ] Rock Paper Scissors 
 - [ ] Tic-tac-toe 
 - [ ] Hangman 
-- [ ] Guess the Number 
+- [x] Guess the Number 
