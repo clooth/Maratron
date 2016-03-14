@@ -17,7 +17,7 @@
 - [ ] Tetris 
 - [ ] Pong 
 - [ ] Arkanoid 
-- [ ] Rock Paper Scissors 
+- [x] Rock Paper Scissors 
 - [ ] Tic-tac-toe 
 - [ ] Hangman 
 - [x] Guess the Number 
